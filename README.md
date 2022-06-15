@@ -1,0 +1,1 @@
+# bash_quick_os_setup
