@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Airpods
+Exec=bluetoothctl connect 14:C8:8B:AE:34:CB
+Terminal=false
+Type=Application
+Categories=Utility
